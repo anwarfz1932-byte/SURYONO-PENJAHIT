@@ -17,7 +17,7 @@ export const getTailoringAdvice = async (userQuery: string): Promise<string> => 
         - Nama: Suryono Penjahit
         - Layanan: Seragam Sekolah, Kebaya, Gamis, Baju, Celana.
         - Kontak: 0895393952644
-        - Lokasi: (Anda bisa menyebutkan lokasi fiktif jika ditanya, atau bilang silakan hubungi nomor untuk lokasi detail).
+        - Lokasi: https://maps.app.goo.gl/MVLc7sTTYbVVhouAA (Tangerang/Banten, sesuaikan jika ada info lebih lanjut, tapi berikan link ini jika diminta lokasi).
         
         Jawablah pertanyaan pelanggan dengan ringkas namun informatif.`,
       }
